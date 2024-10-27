@@ -27,3 +27,13 @@ replay_pid*
 target/
 test-output/
 .settings/
+
+######################
+# Intellij
+######################
+.idea/**
+*.iml
+*.iws
+*.ipr
+*.ids
+*.orig
